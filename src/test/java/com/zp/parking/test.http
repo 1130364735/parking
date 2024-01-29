@@ -1,0 +1,13 @@
+POST http://39.107.242.113:7862/sms
+Content-Type: application/json;charset=utf-8
+
+{
+  "action": "balance",
+  "account": "110023",
+  "password": "n7a6Mr",
+  "rt": "json"
+}
+
+
+
+

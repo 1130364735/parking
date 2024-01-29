@@ -1,0 +1,10 @@
+POST https://pkapi.91.plus/api/park/auth/login
+Content-Type: application/json
+
+{
+    "appKey": "tcpkwfb6piiuqn5mosrr",
+    "appSecret": "bekdexhm0dwtywe8u7wejthoulnm1ros"
+}
+
+
+

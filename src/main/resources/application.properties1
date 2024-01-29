@@ -1,0 +1,8 @@
+server.port=8088
+# sqlserver���ݿ��������
+spring.datasource.url=jdbc:sqlserver://119.29.0.241:1433;databasename=parking;encrypt=true;trustServerCertificate=true
+spring.datasource.driver-class-name=com.microsoft.sqlserver.jdbc.SQLServerDriver
+spring.datasource.username=jztda
+spring.datasource.password=Aa12345678
+# ��־����(���SQL���)
+logging.level.com.zp.mapper=debug

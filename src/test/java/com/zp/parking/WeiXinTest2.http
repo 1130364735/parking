@@ -1,0 +1,1 @@
+GET https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&appid=wxf6a281fada348593&secret=d384ec08144dd09b84f6d36f8afee430

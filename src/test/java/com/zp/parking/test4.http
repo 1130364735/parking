@@ -1,0 +1,8 @@
+POST http://registyop.mer.jztda.com.cn/api/test/wxtoken
+#Content-Type: application/json
+#
+#{
+#  "area": "测试",
+#  "cname": "肢体冲突",
+#  "createtime": "2023年9月15日12:00"
+#}

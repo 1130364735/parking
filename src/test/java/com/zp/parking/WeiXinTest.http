@@ -1,0 +1,8 @@
+POST  https://api.weixin.qq.com/cgi-bin/token
+Content-Type: application/json
+
+{
+  "grant_type": "client_credential",
+  "appid": "wxf6a281fada348593",
+  "secret": "d384ec08144dd09b84f6d36f8afee430"
+}

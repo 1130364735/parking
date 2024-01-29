@@ -1,0 +1,2 @@
+GET http://localhost:8888/api/v1/p/pay/ai
+#GET http://localhost:8888/api/v1/p/pay/qrcode/1699665227437416449

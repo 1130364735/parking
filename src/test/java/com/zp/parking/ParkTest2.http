@@ -1,0 +1,3 @@
+GET https://pkapi.91.plus/api/park/parking/space
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJldGNwOmxvZ2luOmFwcDoyOSIsImF1ZCI6InRjd3lAY2xvdWQiLCJpc3MiOiJ0Y3d5QGNsb3VkIiwiZXhwIjoxNzA1ODg1OTQ2LCJpYXQiOjE3MDU2MjY3NDZ9.HA7Hg7kX2jZUOIfuvKlB9pQfgXEI86sFuLkCsiiZH7efUgKBEyoR6D20nv6aKQ6VSdKEizygSm72vDMacPVVDg
