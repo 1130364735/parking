@@ -473,6 +473,7 @@ public class TestController {
 //            testService.updateCurrentSpaceByName(pi);
 
 
+
             int e = (int) random4.get(i);
             System.out.println(e);
             ParkingInfo1 pi2 = new ParkingInfo1();
